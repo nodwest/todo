@@ -1,0 +1,16 @@
+.container-surch-panel button {
+    border-right: .1px solid #333;
+    border-radius: 0%;
+}
+
+.container-search-panel-btn{
+    display: flex;
+    margin-left: 5px;
+    border: 0.1px solid #333;
+    border-radius: 5px;
+}
+
+.container-search-panel-btn:last-child {
+    border-right: 0px;
+   
+}

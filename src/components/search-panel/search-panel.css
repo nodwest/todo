@@ -1,0 +1,14 @@
+.search-panel {
+    width: 100%;
+}
+
+.container-surch-panel{
+    display: flex;
+    margin-top: 10px;
+}
+
+
+
+.input-search-panel::placeholder {
+    font-size: 1rem;
+}

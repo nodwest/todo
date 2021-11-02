@@ -1,0 +1,21 @@
+.todo-container-span {
+    display: flex;
+    
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.btn-icon {
+    margin-left: 5px;
+    
+}
+
+.done {
+   text-decoration: line-through;
+
+}
+
+.important {
+    color: #1E90FF ;
+    font-weight: bolder;
+}

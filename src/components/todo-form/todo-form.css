@@ -1,0 +1,13 @@
+.formContainer {
+    display: flex;
+    
+    
+}
+
+.formContainer input {
+    margin-right: 3px;
+}
+
+.formContainer button {
+    min-width: 6.5rem;
+}

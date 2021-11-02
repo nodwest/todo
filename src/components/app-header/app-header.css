@@ -1,0 +1,10 @@
+.appHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.todoCounter{
+    align-self: flex-end;
+}
